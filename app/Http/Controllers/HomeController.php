@@ -1,0 +1,12 @@
+<?php
+
+namespace assetManager\Http\Controllers;
+
+class HomeController extends Controller 
+{
+	public function index()
+	{
+		return view('home');
+	}
+	
+}

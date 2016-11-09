@@ -1,0 +1,10 @@
+HOSTING
+- instalare Ubuntu 16LTS si LEMP
+
+APPLICATION
+- create IP table in relation with section
+- 
+
+
+OTHER
+- downloading proxi script: Chrome Show advanced settings-Network-change proxi-in the popup-lan settings-uncheck automatically detect settings
